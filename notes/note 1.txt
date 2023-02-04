@@ -1,0 +1,397 @@
+/* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ /* .contact-container{
+
+} */
+/* .contact-container{
+    text-align: center;
+}
+ .img-contact{
+    border-top-left-radius: 50vw;
+    border-top-right-radius: 50vw;
+    width: 30%;
+    /* position: fixed;
+    bottom: 100%; */
+     /* background-attachment: fixed;
+     transition: 10s; */
+    /* opacity: ; */
+}
+
+/* .img-contact.add{
+    border-top-left-radius: 0vw;
+    border-top-right-radius: 0vw;
+    transition: 4s;
+    width: 100%;
+} */ 

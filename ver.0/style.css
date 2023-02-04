@@ -1,0 +1,529 @@
+/*global rules and global variabules*/
+:root {
+    --main-color: #131f30;
+    --second-color: wheat;
+     --third-color: white;
+    /* --fourth-color: #9e9e9e; */ 
+    --main-transition:1.5s;
+    /* --main-padding-top: 100px;
+    --main-padding-bottom: 100px; */
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-family: 'Forum', cursive;
+    background-color: var(--main-color);
+}
+.container{
+    padding: 128px 40px;
+}
+/*Small screens*/
+@media (min-width: 786px) {
+    .container {
+        width: 750px;
+    }
+}
+
+/*Meduim screens*/
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+/*Large screens*/
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+/* featured css */
+.featured p{
+    position: relative;
+    text-align: center;
+    color: (52,51,57);
+    /* font-family: Newyork; */
+    font-size: 128px;
+    line-height: 128px;
+    text-decoration: none solid (52,51,57);
+    left:180px;
+    font-family: 'Forum', cursive;
+    color: var(--second-color);
+}
+
+.featured .images{
+    display: flex;
+    
+    justify-content: space-between;
+    position: relative;
+    text-align: center;
+
+   left: 30px;
+    gap: 355px;
+}
+
+.featured .images .caption{
+    padding-top: 25px;
+    position: relative;
+    left: 120px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--second-color);
+}
+
+.featured .images .images-container{
+    flex-basis: 25%;
+    cursor: pointer;
+    
+}
+/* .featured .images .images-container:hover{
+    transform: scale(1.1);
+    transition: .5s;
+} */
+
+.featured .images .boxes{
+    
+
+    position: relative;
+}
+
+.featured .images .boxes img{
+    max-width: 300%;
+    border-radius: 1000px;
+}
+.featured .images .boxes img:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.dis{
+    position: relative;
+    left: 121px;
+    top: 10px;
+    font-weight: bold;
+    text-decoration: line-through;
+    color: var(--second-color);
+}
+
+/* .cursor{
+    width: 20px;
+    height: 20px;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    transition: 0.1s;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    cursor: pointer;
+} */
+
+
+/* end section */
+
+/* start section */
+.section{
+    display: flex;
+    /* gap: 280px; */
+}
+
+.section .right{
+    font-size: 1.25rem;
+    line-height: 190%;
+    position: relative;
+    left: 250px;
+}
+
+.section .left{
+
+    font-family: Newyork,sans-serif;
+    font-size: 8rem;
+    line-height: 100%;
+    font-weight: 400;
+    color: var(--second-color );
+}
+
+.section .right .shop_now{
+    width: 180px;
+    border-radius: 1000px;
+    border: double;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    cursor: pointer;
+}
+
+.section .right .shop_now:hover{
+    transition: 0.5s;
+   color: grey;
+   background-color: white;
+}
+/* end section */
+
+
+/* ziad section */
+.pupels{
+    height: 300vh;
+    position: relative; 
+    
+}
+.pupels .background{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/two_vases.webp');
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: -100%;
+    
+} 
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--overlay-color);
+    opacity: var(--overlay-opacity);
+    top: 0;
+    left: 0;
+}
+.pupels .h2{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    
+}
+h2{
+    font-family: 'Forum', cursive;
+    font-size: 160px;
+    color: white;
+}
+
+.pupels .imgs-container{
+    position: absolute;
+    height: 110vh;
+    width: 100%;
+    top: 100vh;
+    left: 0;
+    z-index: 12;
+    
+} 
+
+.pupels .imgs{
+    position: relative;
+}
+.pupels img{
+    width: 150px;
+    display: inline-block;
+    height: 150px;
+    position: absolute;
+    border-radius: 50%;
+}
+.imgs-container img:nth-of-type(2){
+    left: 150px;
+    top: 150px;
+}
+.imgs-container img:nth-of-type(3){
+    left: 50%;
+    top: 150px
+}
+.imgs-container img:nth-of-type(4){
+    right: 0;
+    top: 300px;
+}
+.imgs-container img:nth-of-type(5){
+    left: 0%;
+    top: 450px; 
+}
+.imgs-container img:nth-of-type(6){
+    left: 35%;
+    top: 450px
+}
+.imgs-container img:nth-of-type(7){
+    left: 45%;
+    top: 650px
+}
+/* end ziad */
+
+/* start joe */
+header{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+header>a,
+header>div>a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Forum';
+    font-family: 'Cabinet Grotesk',sans-serif;
+    z-index: 1;
+    transition: all 2s ease;
+    overflow: hidden;
+}
+header>div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+header>a>svg{
+    width: 100%;
+}
+header>a:not(:nth-child(2)):hover,
+header>div>a:hover{
+    animation: small_loop 0.5s ease 0s 1;
+}
+/* the animation for the links in the header */
+@keyframes small_loop{
+    30%{
+        transform: translate3d(0px, -25%, 0px)
+    }
+    100%{
+        display: none;
+    }
+}
+header .click span{
+    display: block;
+    width: 37px;
+    height: 3px;
+    margin-bottom: 5px;
+    background-color: var(--second-color);
+    transition: all 1s ease;
+}
+header .click{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 1;
+    /* cursor: pointer; */
+}
+header .menu{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-color: var(--second-color);
+    background-image: linear-gradient(to bottom, var(--second-color), var(--third-color));
+    color: var(--main-color);
+    z-index: -9999;
+    transform: translateY(50px);
+    transition: z-index 0s ease, transform var(--main-transition) ease, height var(--main-transition) ease;
+}
+.menu:hover,
+header .click:hover~.menu{
+    z-index: 900;
+    transform: translateY(0);
+    height: 100vh;
+}
+header .menu li{
+    border-bottom: 5px var(--main-color);
+    border-bottom-style: double;
+    padding: 20px;
+    /* margin-bottom: 20px; */
+    position: relative;
+}
+header .menu li a{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: var(--main-color);
+    text-decoration: none;
+}
+header .menu li:last-child{
+    border-bottom: none;
+}
+header .click:hover span:nth-child(2){
+    width: 60%;
+}
+
+/* header end */
+
+
+
+
+/* landing start */
+.landing{
+    background-image: url(../images/landing-image.webp);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    /* overflow: hidden; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* .landing img{
+    z-index: -2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+} */
+.landing h1{
+    font-size: 160px;
+    width: min-content;
+    font-family: 'Forum';
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    margin: 40px 0;
+}
+.landing a{
+    color: white;
+    padding: 20px 30px;
+    margin-bottom: 40px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: system-ui;
+    position: relative;
+    transition: all 0s ease;
+    z-index: 0;
+    text-decoration: none;
+}
+.landing a:hover{
+    color: transparent;
+}
+.landing a::before{
+    content: "SHOP NOw";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: transparent;
+    background-color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 0%;
+    transition: all var(--main-transition) ease;
+    
+}
+.landing a:hover::before{
+    animation: filling 0.12s linear 1 forwards;
+}
+/* the "SHOP NOW" button animation */
+@keyframes filling{
+    0%{
+        height: 20%;
+        width: 75%;
+        left: 12.5%;
+        border-radius: 10px;
+        color: transparent;
+    }
+    20%{
+        height: 40%;
+        width: 85%;
+        left: 7.5%;
+        border-radius: 25px;
+        color: transparent;
+    }
+    40%{
+        height: 60%;
+        width: 88%;
+        left: 6%;
+        border-radius: 50px;
+        color: transparent;
+    }
+    60%{
+        height: 80%;
+        width: 100%;
+        left: 0%;
+        border-radius: 50px;
+        color: black;
+        color: black;
+    }
+    80%{
+        height: 100%;
+        width: 100%;
+        left: 0%;
+        border-radius: 50px;
+        color: black;
+    }
+    100%{
+        width: 100%;
+        height: 100%;
+        border-radius: 50px;
+        color: black;
+    }
+}
+
+/* another animation for the "SHOP NOW" button */
+
+/* .landing a::before{
+    content: "";
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    width: 0%;
+    height: 0%;
+    border-radius: 50px;
+    background-color: white;
+    transition: all 0.3s ease;
+    z-index: -1;
+}
+.landing a:hover::before{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} */
+
+
+/* landing end */
+
+/* media query for the eader and the landing */
+@media (max-width: 991px){
+    .landing img{
+        min-height: 0;
+    }
+    header .menu{
+        height: 30px;
+    }
+    .landing{
+        height: fit-content;
+    }
+    .landing h1{
+        font-size: 515%;
+        margin-top: 123px;
+    }
+}
+@media (max-width: 768px){
+    header>:first-child{
+        display: none;
+    }
+}
+/* end joe */
