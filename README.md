@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Live Demo
 Check out the live demo here.
-
+https://solve3.netlify.app/
